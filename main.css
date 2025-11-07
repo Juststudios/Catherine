@@ -1,4 +1,6 @@
-body{background: linear-gradient(to right, #ff0000 0%, #ff0000 25%, #55ff00 50%, #00ffb2 75%)}  .wrapper{
+body{/*background: linear-gradient(to right, #ff0000 0%, #ff0000 25%, #55ff00 50%, #00ffb2 75%);*/
+background: #242468
+}  .wrapper{
     display: flex;
     unicode-bidi: isolate;
     flex-direction: row;
